@@ -1,16 +1,7 @@
-# iseseisev-projekt
+# 2D Runner
 
-Tähtaeg - 1 päev enne esitlust.
-
-Eesrakenduste arendamise iseseisva projekti lähteülesanne. 
-
-Töö võib teha teha 1-4 liikmelise meeskonnana. Punkte jaotatakse vastavalt sellele, mitu liiget on meeskonnas:
-* 1 liige - max 70 punkti/inimene.
-* 2 liiget - max 40 punkti/inimene.
-* 3 liiget - max 30 punkti/inimene.
-* 4 liiget - max 20 punkti/inimene.
-
-**NB! Kui meeskonnas on rohkem kui üks liige, siis peab githubis selgelt välja tulema, kes millist osa tegi, et oleks võimalik hinnata iga meeskonnaliikme individuaalset panust.**
+* Autor: Kristjan Petersell
+(minu tlu github: https://github.com/kristjan-pet)
 
 README.md fail sisaldab:
 1. suurelt rakenduse nime;
