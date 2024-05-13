@@ -5,8 +5,11 @@
 
 # Funktionaalsus
 
-2D Runner on inpireeritud Google Dino runneriga. Selle mängu põhimõte on joosta nii kaua kuni mängija kaotab.
-Selles mängus mängija jookseb ja hüppab üle erinevaid objekte/vaenlasi. Põhimõte on saada maksimaalselt suure skoori.
+2D Runner on inpireeritud Google Dino runneriga. 
+Selle mängu põhimõte on joosta nii kaua kuni mängija kaotab.
+Selles mängus mängija jookseb ja hüppab üle erinevaid objekte/vaenlasi.
+Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiirus ja ekraanile tuleb rohkem objekte.
+Põhimõte on saada maksimaalselt suure skoori.
 
 # Screenshot
 ![Pilt](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/d28f1876-aa95-4fd1-ba38-cf9673a47a64)
