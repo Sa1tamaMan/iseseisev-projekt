@@ -1,0 +1,55 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    background-image: linear-gradient(gray, rgb(54, 54, 54));
+    height: 100vh;
+    margin: 0;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    align-content: center;
+}
+
+canvas {
+    image-rendering: pixelated;
+}
+
+#score {
+    margin-top: 5px;
+    margin-right: 15px;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    margin: 0;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+}
+
+#restart {
+    display: none;
+    font-size: x-large;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+}
+
+#restart:hover {
+    background-color: rgb(37, 37, 37);
+    color: darkgray
+}
