@@ -10,8 +10,11 @@ Selle mängu põhimõte on joosta nii kaua kuni mängija kaotab ja saada maksima
 Selles mängus mängija jookseb ja hüppab üle erinevaid objekte/vaenlasi.
 Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiirus ja ekraanile tuleb rohkem objekte.
 
-# Screenshot
-![Pilt](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/d28f1876-aa95-4fd1-ba38-cf9673a47a64)
+# Screenshotid
+![Pilt1](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/d28f1876-aa95-4fd1-ba38-cf9673a47a64)
+
+![Pilt2](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/7ea3dfa9-7e6d-42b5-9268-873752f5587a)
+
 
 # Viited
 * ChatGpt
