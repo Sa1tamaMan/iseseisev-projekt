@@ -3,6 +3,8 @@
 ### Autor: Kristjan Petersell
 (minu tlu github: https://github.com/kristjan-pet)
 
+[Mängu link](https://www.tlu.ee/~sa1tama/2d-runner/runner.html)
+
 ## Funktionaalsus
 
 2D Runner on inspireeritud Google'i mänguga: Dinosaur Game.
