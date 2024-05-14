@@ -1,9 +1,9 @@
 # 2D Runner
 
-## Autor: Kristjan Petersell
+### Autor: Kristjan Petersell
 (minu tlu github: https://github.com/kristjan-pet)
 
-# Funktionaalsus
+## Funktionaalsus
 
 2D Runner on inspireeritud Google'i mänguga: Dinosaur Game.
 
@@ -13,7 +13,7 @@ Selles mängus mängija jookseb ja hüppab üle erinevaid objekte/vaenlasi.
 
 Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiirus ja ekraanile tuleb rohkem objekte.
 
-## Tehnilisus
+### Tehnilisus
 
 Selleks, et mängu käivitada on vaja seadistada serveri (localhost vms).
 
@@ -28,7 +28,7 @@ Kui server on tehtud, siis peab selle '_.html_' faili lahti tegema (läbi oma se
 
 _!NB selles mängus ei ole võimalik oma Score'i salvestada._
 
-## Visuaal
+### Visuaal
 
 Alguses tahtsin kopeerida Dinosaur Game visuaali, aga hiljem mõtlesin, et võiks ise visuaali teha. 
 
@@ -38,19 +38,19 @@ _Sprite_'id tulid välja omapärased ning nende desain tuli suvaliselt pähe.
 
 Mõnedele _Sprite_'idele lisasin ka animatsiooni, et mäng näeks rohkem elus olevat.
 
-## Kasutatud _software_
+### Kasutatud _software_
 
 * Visual Studio Code (addons: open in browser, Live Server)
 * Krita (paint, aga mahukam)
 * Firefox
 
-# Screenshotid
+## Screenshotid
 
 ![Pilt1](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/d28f1876-aa95-4fd1-ba38-cf9673a47a64)
 
 ![Pilt2](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/7ea3dfa9-7e6d-42b5-9268-873752f5587a)
 
-# Viited
+## Viited
 
 * ChatGpt
 * https://www.youtube.com/watch?v=bG2BmmYr9NQ
