@@ -15,10 +15,8 @@ Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiiru
 
 ### Tehnilisus
 
-Selleks, et mängu käivitada on vaja seadistada serveri (localhost vms).
-
-Kui server on tehtud, siis peab selle '_.html_' faili lahti tegema (läbi oma serveri).
-
+* Selleks, et mängu käivitada on vaja seadistada serveri (localhost vms).
+* Kui server on tehtud, siis peab selle '_.html_' faili lahti tegema (läbi oma serveri).
 * Mäng algab kohe kui 'runner.html' on laetud.
 * Hüppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
 * Iga mängu 'tick' korra suureneb 'Score' ühe võrra.
