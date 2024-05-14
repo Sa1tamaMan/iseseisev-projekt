@@ -15,6 +15,10 @@ Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiiru
 
 ## Tehnilisus
 
+Selleks, et mängu käivitada on vaja seadistada serveri (localhost vms).
+
+Kui server on tehtud, siis peab selle '_.html_' faili lahti tegema (läbi oma serveri).
+
 * Mäng algab kohe kui 'runner.html' on laetud.
 * Hüppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
 * Iga mängu 'tick' korra suureneb 'Score' ühe võrra.
@@ -28,7 +32,7 @@ _!NB selles mängus ei ole võimalik oma Score'i salvestada._
 
 Alguses tahtsin kopeerida Dinosaur Game visuaali, aga hiljem mõtlesin, et võiks ise visuaali teha. 
 
-Nii, kasutades _Krita_ t, valmistasin oma tehtud '_.png_' failid ja panin neid mängu sisse.
+Nii, kasutades _Krita_'t, valmistasin oma tehtud '_.png_' failid ja panin neid mängu sisse.
 
 _Sprite_'id tulid välja omapärased ning nende desain tuli suvaliselt pähe.
 
