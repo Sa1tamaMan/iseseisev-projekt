@@ -12,7 +12,7 @@ Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiiru
 
 ## Tehnilisus
 * Mäng algab kohe kui 'runner.html' on laetud.
-* Hõppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
+* Hüppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
 * Iga mängu 'tick' korra suureneb 'Score' ühe võrra.
 * Kui skoor ületab 20000 siis kiirus muutub lineaarselt, muidu enne 20000 on pandud kõik käsitsi.
 * Kui mängija muudutab üht nendest 'Obstacles', siis mängija kaotab, mäng lõpeb ja näidatakse saadud skoori.
