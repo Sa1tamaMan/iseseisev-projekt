@@ -10,6 +10,15 @@ Selle mängu põhimõte on joosta nii kaua kuni mängija kaotab ja saada maksima
 Selles mängus mängija jookseb ja hüppab üle erinevaid objekte/vaenlasi.
 Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiirus ja ekraanile tuleb rohkem objekte.
 
+## Tehnilisus
+* Mäng algab kohe kui 'runner.html' on laetud.
+* Hõppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
+* Iga mängu 'tick' korra suureneb 'Score' ühe võrra.
+* Kui skoor ületab 20000 siis kiirus muutub lineaarselt, muidu enne 20000 on pandud kõik käsitsi.
+* Kui mängija muudutab üht nendest 'Obstacles', siis mängija kaotab, mäng lõpeb ja näidatakse saadud skoori.
+* Et mängu uuesti alustada võib vajutada Restart nuppu või ise _refresh_-ida lehekülge.
+_*!NB selles mängus ei ole võimalik oma Score'i salvestada.*_
+
 # Screenshotid
 ![Pilt1](https://github.com/Sa1tamaMan/iseseisev-projekt/assets/159195533/d28f1876-aa95-4fd1-ba38-cf9673a47a64)
 
