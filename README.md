@@ -5,7 +5,7 @@
 
 # Funktionaalsus
 
-2D Runner on inspireeritud Google'i Dinosaur Game mänguga.
+2D Runner on inspireeritud Google'i mänguga: Dinosaur Game.
 
 Selle mängu põhimõte on joosta nii kaua kuni mängija kaotab ja saada maksimaalselt suure skoori.
 
@@ -18,8 +18,8 @@ Mida kauem on mängija elus seda raskemaks läheb mäng, näiteks suureneb kiiru
 * Mäng algab kohe kui 'runner.html' on laetud.
 * Hüppamiseks on nupud: W, Space, UpArrow või MouseLeftClick
 * Iga mängu 'tick' korra suureneb 'Score' ühe võrra.
-* Kui skoor ületab 20000 siis kiirus muutub lineaarselt, muidu enne 20000 on kõik muutujad pandud käsitsi.
-* Kui mängija muudutab üht nendest 'Obstacles', siis mängija kaotab, mäng lõpeb ja näidatakse saadud skoori.
+* Kui skoor ületab 16000 siis kiirus muutub lineaarselt, muidu enne 16000 on kõik muutujad pandud käsitsi.
+* Kui mängija puudutab suvalist 'Obstacle' objekti, siis mängija kaotab, mäng lõpeb ja näidatakse saadud skoori.
 * Et mängu uuesti alustada võib vajutada Restart nuppu või ise _refresh_-ida lehekülge.
 
 _!NB selles mängus ei ole võimalik oma Score'i salvestada._
@@ -28,7 +28,7 @@ _!NB selles mängus ei ole võimalik oma Score'i salvestada._
 
 Alguses tahtsin kopeerida Dinosaur Game visuaali, aga hiljem mõtlesin, et võiks ise visuaali teha. 
 
-Nii kasutades Krita valmistasin oma tehtud '_.png_' failid ja panin neid mängu sisse.
+Nii, kasutades _Krita_ t, valmistasin oma tehtud '_.png_' failid ja panin neid mängu sisse.
 
 _Sprite_'id tulid välja omapärased ning nende desain tuli suvaliselt pähe.
 
